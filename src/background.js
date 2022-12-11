@@ -27,7 +27,7 @@ function reloadRatings(retries = 0) {
 
       if (retries < 4) {
         console.log(`Retrying in ${10 ** retries} second...`);
-        setTimeout(() => reloadRatings(retries + 1), 10 ** retries);
+        setTimeout(() => reloadRatings(retries + 1), 10 ** retries * 1000);
       } else {
         console.log(`Retries exhausted.`);
       }
