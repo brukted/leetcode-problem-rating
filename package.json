@@ -1,7 +1,7 @@
 {
   "name": "leetcode-problem-rating",
   "version": "0.1.0",
-  "description": "My Chrome Extension",
+  "description": "Add number based problem rating using data from https://github.com/zerotrac/leetcode_problem_rating",
   "private": true,
   "scripts": {
     "watch": "webpack --mode=development --watch --config config/webpack.config.js",

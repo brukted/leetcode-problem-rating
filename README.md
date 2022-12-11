@@ -1,11 +1,10 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Leetcode Problem Rating
+# <img src="public/icons/icon-128.png" width="45" align="left"> Leetcode Problem Rating
 
-My Chrome Extension
+LeetCode Problem Rating
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Replaces LeetCodes' rating with rating retrieved from https://github.com/zerotrac/leetcode_problem_rating.
 
 ## Install
 
@@ -18,4 +17,3 @@ Suggestions and pull requests are welcomed!.
 ---
 
 This project was bootstrapped with [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
-
